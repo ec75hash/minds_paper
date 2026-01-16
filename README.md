@@ -39,5 +39,3 @@ ots verify main.pdf.ots
   you plan to distribute under a specific name.
   
 - I am contributing this anonamously for now. But I'm happy to collaborate with others. Especially those with more knowledge than me. Thanks!
-
-2026.
