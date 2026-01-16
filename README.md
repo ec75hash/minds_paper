@@ -40,4 +40,4 @@ ots verify main.pdf.ots
 
 ### Note: I am contributing this anonamously for now. But I'm happy to collaborate with others. Especially those with more knowledge than me. Thanks!
 
-With <3 2026. 
+2026.
