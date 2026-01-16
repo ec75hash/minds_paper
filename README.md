@@ -34,10 +34,10 @@ ots verify main.pdf.ots
 ```
 
 ## Notes
+
 - The `\\author{}` field in `main.tex` is currently a placeholder. Update it if
   you plan to distribute under a specific name.
-
-
-### Note: I am contributing this anonamously for now. But I'm happy to collaborate with others. Especially those with more knowledge than me. Thanks!
+  
+- I am contributing this anonamously for now. But I'm happy to collaborate with others. Especially those with more knowledge than me. Thanks!
 
 2026.
