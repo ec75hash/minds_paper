@@ -26,8 +26,7 @@ make cleanall
 ```
 
 ## OpenTimestamps
-The proof file `main.pdf.ots` matches the current `main.pdf`. If the PDF changes,
-re-stamp it.
+The proof file `main.pdf.ots` matches the current `main.pdf`. If the PDF changes, I will re-stamp it.
 
 ```sh
 ots upgrade main.pdf.ots
@@ -37,3 +36,8 @@ ots verify main.pdf.ots
 ## Notes
 - The `\\author{}` field in `main.tex` is currently a placeholder. Update it if
   you plan to distribute under a specific name.
+
+
+### Note: I am contributing this anonamously for now. But I'm happy to collaborate with others. Especially those with more knowledge than me. Thanks!
+
+With <3 2026. 
