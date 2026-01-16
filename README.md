@@ -1,4 +1,6 @@
-# minds_paper
+# Sam Harris, No Self, and Machine Minds. 
+
+## A work in Progress.
 
 LaTeX source and compiled PDF for the essay "Sam Harris, No-Self, and Machine
 Minds: Continuity as the Moral Threshold" (dated January 16, 2026). The paper
