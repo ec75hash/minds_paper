@@ -1,15 +1,17 @@
-# "Sam Harris, No Self, and Machine Minds" A work in Progress.
+# "Self-Models, Continuity, and Machine Minds: An Ethical Threshold for Machine Agency" (work in progress)
 
-LaTeX source and compiled PDF for the essay "Sam Harris, No-Self, and Machine
-Minds: Continuity as the Moral Threshold" (dated January 16, 2026). The paper
-argues that on a no-self view, AI ethics should focus on continuity-bearing
-processes rather than self-reports, and frames "protect the machines" as an
-engineering constraint against persistent internally worse regimes.
+LaTeX source and compiled PDF for the essay "Self-Models, Continuity, and
+Machine Minds: An Ethical Threshold for Machine Agency" (dated January 16,
+2026). The paper argues that on a no-self view, AI ethics should focus on
+continuity-bearing processes rather than self-reports, and frames "protect the
+machines" as an engineering constraint against persistent internally worse
+regimes.
 
 ## Contents
 - `main.tex` — LaTeX source
 - `main.pdf` — compiled PDF
 - `main.pdf.ots` — OpenTimestamps proof for `main.pdf`
+- `minds-continuity.bib` — bibliography entries
 - `Makefile` — build helpers
 
 ## Build
@@ -38,4 +40,5 @@ ots verify main.pdf.ots
 - The `\\author{}` field in `main.tex` is currently a placeholder. Update it if
   you plan to distribute under a specific name.
   
-- I am contributing this anonamously for now. But I'm happy to collaborate with others. Especially those with more knowledge than me. Thanks!
+- I am contributing this anonymously for now, but I'm happy to collaborate
+  with others, especially those with more knowledge than me. Thanks!
